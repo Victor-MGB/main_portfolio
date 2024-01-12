@@ -21,7 +21,7 @@ export default function Slidebar() {
   };
 
   return (
-    <div className="flex-none hidden lg:block  bg-black h-screen min-w-[25%] fixed ">
+    <div className="flex-none hidden lg:block  bg-black-300 rounded-sm mr-[2rem] h-screen min-w-[25%] fixed ">
       <div className="nav flex  text-white text-lg mt-10 flex-col align-middle justify-center text-center w-full gap-5 overflow-hidden">
         <div data-aos="slide-down">
           <NavLink to={"/activity"}>

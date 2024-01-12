@@ -32,7 +32,7 @@ export default function Resume() {
               My learning curve in Mern
             </span>
             <p class="mb-4 text-base font-normal  text-gray-400">
-              Provides overall understanding of JavaScript concept as meern stack is a JavaScript full stack web development,
+              Provides overall understanding of JavaScript concept as mern stack is a JavaScript full stack web development,
               independent of specific technical roles. It provides a detailed
               overview of problem solving, security, database
               architecture, deployment and hosting of frontend and backend in different hosting platform.
@@ -172,7 +172,7 @@ export default function Resume() {
 
           <a
             href={require("../../assets/files/Daniel Resume.pdf")}
-            download={"Dani's Resume"}
+            download={"Victor's Resume"}
             class="inline-flex items-center px-6 py-2 mt-12 mx-auto w-fit text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
           >
             Download CV <DownloadIcon />
